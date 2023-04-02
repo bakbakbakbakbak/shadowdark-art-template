@@ -21,5 +21,10 @@
         "verified": "1.2.0"
       }
     }]
+  },
+  "flags": {
+    "shadowdark-art-template": {
+      "shadowdark-art": "modules/shadowdark-art-template/mappings/map-template.json"
+    }
   }
 }

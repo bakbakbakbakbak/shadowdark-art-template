@@ -1,5 +1,5 @@
 {
-	"shadowdark.monster": {
+	"shadowdark.monsters": {
 		"sgVqRuCaadRK1P7R": {
 			"__MONSTER_NAME__": "Aboleth",
 			"actor": "modules/shadowdark-art-template/artwork/portraits/aboleth.webp",

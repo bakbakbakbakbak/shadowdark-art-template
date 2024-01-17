@@ -6,19 +6,19 @@
     {
     "name": "bakbakbakbakbak"
     }
-    ],
-  "version": "1.0.0",
+	],
+  "version": "1.0.1",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "11"
   },
   "releationships": {
     "systems": [{
       "id": "shadowdark",
       "type": "system",
-      "manifest": "https://github.com/Muttley/foundryvtt-shadowdark/releases/download/release-1.2.0/system.json",
+      "manifest": "https://github.com/Muttley/foundryvtt-shadowdark/releases/download/release-1.7.3/system.json",
       "compatability": {
-        "verified": "1.2.0"
+        "verified": "1.7.3"
       }
     }]
   },
